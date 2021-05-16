@@ -1,1 +1,2 @@
-# Git-cheatsheetAll useful Git cli commands
+# Git-cheatsheet
+All useful Git cli commands
